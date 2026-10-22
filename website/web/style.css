@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #f6f7f9; color: #1c2430; }
+.top { display: flex; align-items: baseline; gap: 12px; padding: 14px 16px; background: #fff; border-bottom: 1px solid #dfe3ea; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: inherit; }
+.sub { color: #5d6877; font-size: 0.9rem; }
+main { max-width: 1000px; margin: 16px auto; padding: 0 16px; }
+table { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #dfe3ea; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #dfe3ea; }
+th { color: #5d6877; font-size: 0.82rem; }
+.badge { background: #fff4d6; color: #6b4a00; padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; margin-right: 4px; }
